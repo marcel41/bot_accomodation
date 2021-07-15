@@ -1,0 +1,6 @@
+# USERNAME='x@hotmail.com'
+# PASSWORD='x'
+USERNAME=''
+PASSWORD=''
+TELEGRAMAPI = ''
+msg_ID = ''
